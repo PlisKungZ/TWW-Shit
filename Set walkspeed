@@ -1,0 +1,4 @@
+while true do
+    wait()
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 22.88
+end
